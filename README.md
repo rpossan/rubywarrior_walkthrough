@@ -17,7 +17,7 @@ LEVEL 2
 ![Level 2 level 2](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level2.png)
 
 While warrior [feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
- warrior keep walking. So warrior [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)]
+ warrior keep walking. So warrior [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
 
 LEVEL 3
 -------
