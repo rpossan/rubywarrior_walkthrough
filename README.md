@@ -23,8 +23,8 @@ LEVEL 2
 :eyes: **warrior.feel**<br>
 :punch: **warrior.atack!**<br>
 
->While warrior :eyes: [feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
- warrior keep walking. So warrior :punch: [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
+>While warrior [:eyes: feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
+ warrior keep walking. So warrior [:punch: attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
 
 LEVEL 3
 -------
