@@ -8,8 +8,7 @@ LEVEL 1
 
 ![Level 1 level 1](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level1.png)
 
-:star: New Hability Acquired!
-
+:star: New Hability Acquired!<br>
 :feet: warrior.walk!
 
 It's a very easy command to start. No secrets. Just [walk!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level1.rb#L5)
