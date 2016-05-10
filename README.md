@@ -9,6 +9,7 @@ LEVEL 1
 ![Level 1 level 1](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level1.png)
 
 :star: New Hability Acquired!
+
 :feet: warrior.walk!
 
 It's a very easy command to start. No secrets. Just [walk!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level1.rb#L5)
@@ -20,8 +21,10 @@ LEVEL 2
 ![Level 2 level 2](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level2.png)
 
 :star: New Habilties Acquired!
-:heart: warrior.feel
-:eyes: warrior.atack!
+
+:eyes: warrior.feel
+
+:punch: warrior.atack!
 
 While warrior [feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
  warrior keep walking. So warrior [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
@@ -32,6 +35,7 @@ LEVEL 3
 ![Level 3 level 3](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level3.png)
 
 :star: New Hability Acquired!
+
 :heart: warrior.health!
 
 Now our Hero has a horde of enemies and should have caution. But it should not be a problem, because we are training a lot on our long quest. Practice is very important at this point because should attack until exhausted, then Hero need to rest and recovery some health.
