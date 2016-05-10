@@ -11,7 +11,7 @@ LEVEL 1
 :star: *New Hability Acquired!*<br>
 :feet: **warrior.walk!**
 
-It's a very easy command to start. No secrets. Just [walk!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level1.rb#L5)
+>It's a very easy command to start. No secrets. Just :feet: [walk!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level1.rb#L5)
 
 
 LEVEL 2
@@ -23,19 +23,19 @@ LEVEL 2
 :eyes: **warrior.feel**<br>
 :punch: **warrior.atack!**<br>
 
-While warrior [feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
- warrior keep walking. So warrior [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
+>While warrior :eyes: [feels empty](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
+ warrior keep walking. So warrior :punch: [attack!](https://github.com/rpossan/rubywarrior_walkthrough/blob/master/beginner/level2.rb#L5)
 
 LEVEL 3
 -------
 
 ![Level 3 level 3](https://raw.githubusercontent.com/rpossan/rubywarrior_walkthrough/master/images/level3.png)
 
-:star: *New Hability Acquired!*
+:star: *New Hability Acquired!*<br>
 :heart: **warrior.health!**
 
 >Now our Hero has a horde of enemies and should have caution. But it should not be a problem, because we are training a lot on our long quest.
->Practice is very important at this point because should attack until exhausted, then Hero need to rest and recovery some health.
+>Practice is very important at this point because should attack until exhausted, then Hero need to rest and recovery some :heart: health.
 
 LEVEL 4
 -------
